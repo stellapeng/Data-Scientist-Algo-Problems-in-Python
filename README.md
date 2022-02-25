@@ -9,6 +9,19 @@ I hope visitors can find this is useful! :raised_hands:
 # Question List
 ## Array
 
-| Problem No.      | Problem Name          | Redirect to LeetCode.com  |
-| ------------- |:-------------:| :-----:|
-| 26     | Remove Duplicates from Sorted Array | [click me :dizzy: ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| Problem No.      | Problem Name          | Question  | Solution  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 26     | Remove Duplicates from Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution] (https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
+
+## Strings
+
+| Problem No.      | Problem Name          |  Question  | Solution  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 344     | Reverse String | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |My Solution
+
+
+## Recursion
+
+| Problem No.      | Problem Name          |  Question  | Solution  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 344     | Reverse String | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |My Solution

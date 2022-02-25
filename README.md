@@ -11,7 +11,7 @@ I hope visitors can find this is useful! :raised_hands:
 
 | Problem No.      | Problem Name          | Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 26     | Remove Duplicates from Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution] (https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
+| 26     | Remove Duplicates from Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
 
 ## Strings
 

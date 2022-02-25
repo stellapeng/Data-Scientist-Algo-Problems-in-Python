@@ -17,11 +17,11 @@ I hope visitors can find this is useful! :raised_hands:
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 344     | Reverse String | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |My Solution
+| 344     | Reverse String | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/344.%20Reverse%20String.py)
 
 
 ## Recursion
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 344     | Reverse String | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |My Solution
+| 344     | Reverse String | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Recursion/344.%20Reverse%20String.py)

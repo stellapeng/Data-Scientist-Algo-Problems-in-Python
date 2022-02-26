@@ -31,4 +31,4 @@ I hope visitors can find this is useful! :raised_hands:
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 344     | Reverse String | [LC Link](https://leetcode.com/problems/merge-sorted-array/) | [My Solution]()
+| 344     | Reverse String | [LC Link](https://leetcode.com/problems/merge-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/88.%20Merge%20Sorted%20Array.py)

@@ -24,11 +24,11 @@ I hope visitors can find this is useful! :raised_hands:
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 88    | Merge Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Recursion/344.%20Reverse%20String.py)
+| 88    | Merge Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/88.%20Merge%20Sorted%20Array.py)
 
 
 ## Recursion
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 344     | Reverse String | [LC Link](https://leetcode.com/problems/merge-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/88.%20Merge%20Sorted%20Array.py)
+| 344     | Reverse String | [LC Link](https://leetcode.com/problems/merge-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Recursion/344.%20Reverse%20String.py)

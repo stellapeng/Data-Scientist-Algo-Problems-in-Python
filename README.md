@@ -27,6 +27,12 @@ I hope visitors can find this is useful! :raised_hands:
 | ------------- |:-------------:| :-----:| :-----:|
 | 88    | Merge Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/88.%20Merge%20Sorted%20Array.py)
 
+## Math
+
+| Problem No.      | Problem Name          |  Question  | Solution  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 412     | Fizz Buzz | [LC Link](https://leetcode.com/problems/fizz-buzz/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/412.%20Fizz%20Buzz.py)
+
 
 ## Recursion
 

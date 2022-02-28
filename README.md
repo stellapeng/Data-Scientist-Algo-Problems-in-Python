@@ -22,6 +22,7 @@ I hope visitors can find this is useful! :raised_hands:
 | ------------- |:-------------:| :-----:| :-----:|
 | 344     | Reverse String | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/344.%20Reverse%20String.py)
 | 7     | Reverse Integer | [LC Link](https://leetcode.com/problems/reverse-integer/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/7.%20Reverse%20Integer.py)
+| 387   | First Unique Character in a String | [LC Link](https://leetcode.com/problems/first-unique-character-in-a-string/) | [My Solution]()
 
 
 ## Sorting and Searching

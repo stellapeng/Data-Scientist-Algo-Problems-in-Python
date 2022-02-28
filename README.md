@@ -36,7 +36,7 @@ I hope visitors can find this is useful! :raised_hands:
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
 | 412     | Fizz Buzz | [LC Link](https://leetcode.com/problems/fizz-buzz/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/412.%20Fizz%20Buzz.py)
-| 204     | Count Primes | [LC Link](https://leetcode.com/problems/count-primes/) | [My Solution]()
+| 204     | Count Primes | [LC Link](https://leetcode.com/problems/count-primes/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/204.%20Count%20Primes.py)
 
 
 ## Recursion

@@ -14,7 +14,7 @@ I hope visitors can find this is useful! :raised_hands:
 | 26     | Remove Duplicates from Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
 | 121     | Best Time to Buy and Sell Stock | [LC Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 | 189     | Rotate Array | [LC Link](https://leetcode.com/problems/rotate-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/189.%20Rotate%20Array.py)
-| 217     | Contains Duplicate | [LC Link](https://leetcode.com/problems/contains-duplicate/) | [My Solution]()
+| 217     | Contains Duplicate | [LC Link](https://leetcode.com/problems/contains-duplicate/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/217.%20Contains%20Duplicate.py)
 
 ## Strings
 
@@ -22,7 +22,7 @@ I hope visitors can find this is useful! :raised_hands:
 | ------------- |:-------------:| :-----:| :-----:|
 | 344     | Reverse String | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/344.%20Reverse%20String.py)
 | 7     | Reverse Integer | [LC Link](https://leetcode.com/problems/reverse-integer/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/7.%20Reverse%20Integer.py)
-| 387   | First Unique Character in a String | [LC Link](https://leetcode.com/problems/first-unique-character-in-a-string/) | [My Solution]()
+| 387   | First Unique Character in a String | [LC Link](https://leetcode.com/problems/first-unique-character-in-a-string/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/387.%20First%20Unique%20Character%20in%20a%20String.py)
 
 
 ## Sorting and Searching

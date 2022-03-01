@@ -15,6 +15,7 @@ I hope visitors can find this is useful! :raised_hands:
 | 121     | Best Time to Buy and Sell Stock | [LC Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 | 189     | Rotate Array | [LC Link](https://leetcode.com/problems/rotate-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/189.%20Rotate%20Array.py)
 | 217     | Contains Duplicate | [LC Link](https://leetcode.com/problems/contains-duplicate/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/217.%20Contains%20Duplicate.py)
+| 136     | Single Number | [LC Link](https://leetcode.com/problems/single-number/) | [My Solution]()
 
 ## Strings
 

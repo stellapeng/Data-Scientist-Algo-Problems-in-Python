@@ -16,7 +16,7 @@ I hope visitors can find this is useful! :raised_hands:
 | 189     | Rotate Array | [LC Link](https://leetcode.com/problems/rotate-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/189.%20Rotate%20Array.py)
 | 217     | Contains Duplicate | [LC Link](https://leetcode.com/problems/contains-duplicate/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/217.%20Contains%20Duplicate.py)
 | 136     | Single Number | [LC Link](https://leetcode.com/problems/single-number/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/136.%20Single%20Number.py)
-| 350     | Intersection of Two Arrays II | [LC Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [My Solution]()
+| 350     | Intersection of Two Arrays II | [LC Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/350.%20Intersection%20of%20Two%20Arrays%20II.py)
 
 ## Strings
 

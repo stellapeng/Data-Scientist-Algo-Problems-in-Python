@@ -18,6 +18,8 @@ I hope visitors can find this is useful! :raised_hands:
 | 136     | Single Number | [LC Link](https://leetcode.com/problems/single-number/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/136.%20Single%20Number.py)
 | 350     | Intersection of Two Arrays II | [LC Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/350.%20Intersection%20of%20Two%20Arrays%20II.py)
 | 66     | Plus One | [LC Link](https://leetcode.com/problems/plus-one/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/66.%20Plus%20One.py)
+| 283    | Move Zeros | [LC Link](https://leetcode.com/problems/move-zeroes/) | [My Solution]()
+
 
 ## Strings
 

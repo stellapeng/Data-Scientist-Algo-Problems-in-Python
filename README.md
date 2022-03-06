@@ -44,6 +44,9 @@ I hope visitors can find this is useful! :raised_hands:
 | ------------- |:-------------:| :-----:| :-----:|
 | 412     | Fizz Buzz | [LC Link](https://leetcode.com/problems/fizz-buzz/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/412.%20Fizz%20Buzz.py)
 | 204     | Count Primes | [LC Link](https://leetcode.com/problems/count-primes/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/204.%20Count%20Primes.py)
+| 231     | Power of Two | [LC Link](https://leetcode.com/problems/power-of-two/) | [My Solution]()
+| 326     | Power of Three | [LC Link](https://leetcode.com/problems/power-of-three/) | [My Solution]()
+| 342     | Power of Four | [LC Link]https://leetcode.com/problems/power-of-four/) | [My Solution]()
 
 
 ## Recursion

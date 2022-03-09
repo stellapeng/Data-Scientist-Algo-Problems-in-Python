@@ -22,7 +22,7 @@ I hope visitors can find this is useful! :raised_hands:
 | 1    | Two Sum | [LC Link](https://leetcode.com/problems/two-sum/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/1.%20Two%20Sum.py)
 | 163    | Missing Ranges | [LC Link](https://leetcode.com/problems/missing-ranges/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
 | 36    | Valid Sudoku | [LC Link](https://leetcode.com/problems/missing-ranges/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
-| 48    | Rotate Image | [LC Link](https://leetcode.com/problems/rotate-image/) | [My Solution]()
+| 48    | Rotate Image | [LC Link](https://leetcode.com/problems/rotate-image/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/48.%20Rotate%20Image.py)
 
 
 

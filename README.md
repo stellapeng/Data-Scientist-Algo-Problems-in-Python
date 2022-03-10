@@ -35,7 +35,7 @@ I hope visitors can find this is useful! :raised_hands:
 | 387   | First Unique Character in a String | [LC Link](https://leetcode.com/problems/first-unique-character-in-a-string/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/387.%20First%20Unique%20Character%20in%20a%20String.py)
 | 242   | Valid Anagram | [LC Link](https://leetcode.com/problems/valid-anagram/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/242.%20Valid%20Anagram.py)
 | 125   | Valid Palindrome | [LC Link](https://leetcode.com/problems/valid-palindrome/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/125.%20Valid%20Palindrome.py)
-| 8   | String to Integer (atoi) | [LC Link](https://leetcode.com/problems/string-to-integer-atoi/) | [My Solution]()
+| 8   | String to Integer (atoi) | [LC Link](https://leetcode.com/problems/string-to-integer-atoi/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/8.%20String%20to%20Integer%20\atoi).py)
 
 
 ## Sorting and Searching

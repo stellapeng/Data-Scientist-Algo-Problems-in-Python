@@ -34,7 +34,7 @@ I hope visitors can find this is useful! :raised_hands:
 | 7     | Reverse Integer | [LC Link](https://leetcode.com/problems/reverse-integer/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/7.%20Reverse%20Integer.py)
 | 387   | First Unique Character in a String | [LC Link](https://leetcode.com/problems/first-unique-character-in-a-string/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/387.%20First%20Unique%20Character%20in%20a%20String.py)
 | 242   | Valid Anagram | [LC Link](https://leetcode.com/problems/valid-anagram/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/242.%20Valid%20Anagram.py)
-| 125   | Valid Anagram | [LC Link](https://leetcode.com/problems/valid-palindrome/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/125.%20Valid%20Palindrome.py)
+| 125   | Valid Palindrome | [LC Link](https://leetcode.com/problems/valid-palindrome/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/125.%20Valid%20Palindrome.py)
 
 
 ## Sorting and Searching

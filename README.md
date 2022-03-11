@@ -37,6 +37,7 @@ I hope visitors can find this is useful! :raised_hands:
 | 125   | Valid Palindrome | [LC Link](https://leetcode.com/problems/valid-palindrome/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/125.%20Valid%20Palindrome.py)
 | 8   | String to Integer (atoi) | [LC Link](https://leetcode.com/problems/string-to-integer-atoi/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/8.%20String%20to%20Integer%20\(atoi\).py)
 | 28   | Implement strStr() | [LC Link](https://leetcode.com/problems/implement-strstr/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/28.%20Implement%20strStr\(\).py)
+| 14   |  Longest Common Prefix | [LC Link](https://leetcode.com/problems/longest-common-prefix/) | [My Solution]()
 
 
 

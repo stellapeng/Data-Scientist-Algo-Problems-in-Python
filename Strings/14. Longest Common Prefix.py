@@ -19,6 +19,7 @@ class Solution:
         return ans
 
 
+
 # method 1.2: variant of 1.1, shorter syntax than 1.1
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
@@ -35,6 +36,10 @@ class Solution:
                     return ans
             else: ans += strs[0][i]
         return ans
+
+# -------------------------------------------------------------------------
+
+
 
 
 # method 2.1: enumerate(zip(*strs))        
@@ -69,9 +74,7 @@ class Solution:
             longest_pre += letter_group[0]
         return longest_pre
 
-
-
-
+# -------------------------------------------------------------------------
 
 
 
@@ -111,6 +114,8 @@ class Solution:
                     return longest_pre
         return longest_pre
 
+# -------------------------------------------------------------------------
+
 
 
 
@@ -141,6 +146,8 @@ class Solution:
         else:
             return find_longestCommonPrefix(strs, 0, len(strs)-1)
 
+
+
 # method 4.2: divide and conquer
 # Time Complexity: O(mn)
 # Space Complexisty: O(m*logn)
@@ -169,6 +176,11 @@ class Solution:
             return ""
         else:
             return self.find_longestCommonPrefix(strs, 0, len(strs)-1)
+
+# -------------------------------------------------------------------------
+
+
+
 
 # method 5: binary search
 # Time Complexity: O(mn*log(m))

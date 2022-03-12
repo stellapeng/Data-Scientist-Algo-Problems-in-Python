@@ -65,3 +65,10 @@ I hope visitors can find this is useful! :raised_hands:
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
 | 344     | Reverse String | [LC Link](https://leetcode.com/problems/merge-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Recursion/344.%20Reverse%20String.py)
+
+
+## Others
+
+| Problem No.      | Problem Name          |  Question  | Solution  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 20     | Valid Parentheses | [LC Link](https://leetcode.com/problems/valid-parentheses/) | [My Solution]()

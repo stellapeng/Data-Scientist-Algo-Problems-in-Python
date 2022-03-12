@@ -4,7 +4,8 @@ class Solution:
              '[': ']',
              '{': '}'}
         
-        l = [] # l can mimic stack in python
+        # list can mimic stack in python
+        l = [] 
         for i in s:
             if i in d:
                 l.append(i)

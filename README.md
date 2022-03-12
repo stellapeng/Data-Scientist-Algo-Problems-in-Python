@@ -57,6 +57,7 @@ I hope visitors can find this is useful! :raised_hands:
 | 231     | Power of Two | [LC Link](https://leetcode.com/problems/power-of-two/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/231.%20Power%20of%20Two.py)
 | 326     | Power of Three | [LC Link](https://leetcode.com/problems/power-of-three/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/326.%20Power%20of%20Three.py)
 | 342     | Power of Four | [LC Link](https://leetcode.com/problems/power-of-four/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/342.%20Power%20of%20Four.py)
+| 13     | Roman to Integer | [LC Link](https://leetcode.com/problems/roman-to-integer/) | [My Solution]()
 
 
 ## Recursion

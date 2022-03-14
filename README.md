@@ -80,3 +80,4 @@ I hope visitors can find this is useful! :raised_hands:
 | ------------- |:-------------:| :-----:| :-----:|
 | 20     | Valid Parentheses | [LC Link](https://leetcode.com/problems/valid-parentheses/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/20.%20Valid%20Parentheses.py)
 | 118    | Pascal's Triangle | [LC Link](https://leetcode.com/problems/pascals-triangle/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/118.%20Pascal's%20Triangle.py)
+| 268    | Missing Number | [LC Link](https://leetcode.com/problems/missing-number/) | [My Solution]()

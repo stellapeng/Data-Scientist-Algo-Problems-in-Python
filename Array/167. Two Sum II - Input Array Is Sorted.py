@@ -1,9 +1,10 @@
 # method 1:
 # use two index, take advantage of the sorted list
+# note: focus on this Two Pointers approach above. It's easier to get it right and adapt for other variations of 3Sum. 
 # Time Complexity: O(n)
 # Space Complexisty: O(1)
-class Solution(object):
-    def twoSum(self, numbers, target):
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
 		low = 0
 		high = len(numbers) - 1
 
@@ -26,8 +27,8 @@ class Solution(object):
 # hashtable - the same as Two Sum
 # Time Complexity: O(n)
 # Space Complexisty: O(1)
-class Solution(object):
-    def twoSum(self, numbers, target):
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
 		# dictionary
         d = {}
         for i, v in enumerate(numbers):

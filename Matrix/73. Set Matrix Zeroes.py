@@ -60,3 +60,6 @@ class Solution:
             for i in range(nrow):
                 matrix[i][0] = 0
 
+
+                
+

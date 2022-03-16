@@ -7,7 +7,8 @@ To effectively improve coding skills as a DS, I am summerizing the most revanlen
 I hope visitors can find this is useful! :raised_hands:
 
 # Question List
-## Array
+## Data Structure
+### Array
 
 | Problem No.      | Problem Name          | Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
@@ -28,7 +29,7 @@ I hope visitors can find this is useful! :raised_hands:
 
 
 
-## Strings
+### Strings
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
@@ -42,15 +43,23 @@ I hope visitors can find this is useful! :raised_hands:
 | 14   |  Longest Common Prefix | [LC Link](https://leetcode.com/problems/longest-common-prefix/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/14.%20Longest%20Common%20Prefix.py)
 
 
+### Matrix
 
-## Sorting and Searching
+| Problem No.      | Problem Name          |  Question  | Solution  |
+| ------------- |:-------------:| :-----:| :-----:|
+| 73     | Set Matrix Zeroes | [LC Link](https://leetcode.com/problems/set-matrix-zeroes/) | [My Solution]()
+
+## Algorithm
+
+### Sorting and Searching
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
 | 88    | Merge Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/88.%20Merge%20Sorted%20Array.py)
 | 278    | First Bad Version | [LC Link](https://leetcode.com/problems/first-bad-version/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/278.%20First%20Bad%20Version.py)
 
-## Math
+
+### Math
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
@@ -62,21 +71,21 @@ I hope visitors can find this is useful! :raised_hands:
 | 13     | Roman to Integer | [LC Link](https://leetcode.com/problems/roman-to-integer/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/13.%20Roman%20to%20Integer.py)
 
 
-## Dynamic Programming
+### Dynamic Programming
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
 | 70     | Climbing Stairs | [LC Link](https://leetcode.com/problems/climbing-stairs/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Dynamic%20Programming/70.%20Climbing%20Stairs.py)
 
 
-## Recursion
+### Recursion
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
 | 344     | Reverse String | [LC Link](https://leetcode.com/problems/merge-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Recursion/344.%20Reverse%20String.py)
 
 
-## Others
+### Others
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|

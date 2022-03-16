@@ -7,7 +7,7 @@ To effectively improve coding skills as a DS, I am summerizing the most revanlen
 I hope visitors can find this is useful! :raised_hands:
 
 # Data Structure
-### Array
+### * Array
 
 | Problem No.      | Problem Name          | Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|

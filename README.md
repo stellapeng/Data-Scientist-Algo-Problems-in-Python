@@ -6,8 +6,8 @@ To effectively improve coding skills as a DS, I am summerizing the most revanlen
 
 I hope visitors can find this is useful! :raised_hands:
 
-# Data Structure
-### * Array
+# **Data Structure**
+### Array
 
 | Problem No.      | Problem Name          | Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
@@ -48,7 +48,7 @@ I hope visitors can find this is useful! :raised_hands:
 | ------------- |:-------------:| :-----:| :-----:|
 | 73     | Set Matrix Zeroes | [LC Link](https://leetcode.com/problems/set-matrix-zeroes/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Matrix/73.%20Set%20Matrix%20Zeroes.py)
 
-# Algorithm
+# **Algorithm**
 
 ### Sorting and Searching
 

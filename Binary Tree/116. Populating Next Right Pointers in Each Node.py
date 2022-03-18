@@ -7,7 +7,9 @@ class Node:
         self.right = right
         self.next = next
 """
-
+# method 2:
+# Time Complexity: O(n)
+# Space Complexity: O(1), You may assume implicit stack space does not count as extra space for this problem.
 class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if root is None:
@@ -32,3 +34,26 @@ class Solution:
         self.connectTwoNode(n1.right, n2.left)
 
         # note: the connection order does not really matter
+
+
+# method 2:
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+class Solution:
+    def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
+        if root is None:
+            return root
+        
+        leftmost = root
+        while leftmost.left:
+            head = leftmost
+            
+            while head:
+                head.left.next = head.right
+                if head.next:
+                    head.right.next = head.next.left
+                head = head.next
+            
+            leftmost = leftmost.left
+                
+        return root

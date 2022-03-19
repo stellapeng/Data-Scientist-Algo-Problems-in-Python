@@ -39,6 +39,7 @@ Post-order: left, right, root
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/49.%20Group%20Anagrams.py)
 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.py)|presum Cache|
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/560.%20Subarray%20Sum%20Equals%20K.py)|presum cache + dict|
+| [370. Range Addition](https://leetcode.com/problems/range-addition/)  |Medium| [My Solution]()|array diff cache|
 
 
 

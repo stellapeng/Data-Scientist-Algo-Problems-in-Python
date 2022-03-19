@@ -1,4 +1,4 @@
-# 
+# cache array diff
 # Time Complexity: O(n)
 # Space Complexity: O(n)
 class Solution:
@@ -29,4 +29,5 @@ class Solution:
         # for i in range(1, length):
         #     res[i] = res[i-1] + diff[i]
 
+        
         

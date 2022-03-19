@@ -20,8 +20,8 @@ Post-order: left, right, root
 
 ### Array
 
-| Problem No.      | Problem Name          | Difficulty|Question  | Solution  |
-| ------------- |:-------------:|:-------------:| :-----:| :-----:|
+| Problem No.      | Problem Name          | Difficulty|Question  | Solution  | Comment |
+| ------------- |:-------------:|:-------------:| :-----:| :-----:|:-----:|
 | 26     | Remove Duplicates from Sorted Array | |[LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
 | 121     | Best Time to Buy and Sell Stock | |[LC Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 | 189     | Rotate Array | |[LC Link](https://leetcode.com/problems/rotate-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/189.%20Rotate%20Array.py)
@@ -37,6 +37,7 @@ Post-order: left, right, root
 | 36    | Valid Sudoku | |[LC Link](https://leetcode.com/problems/missing-ranges/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
 | 48    | Rotate Image | |[LC Link](https://leetcode.com/problems/rotate-image/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/48.%20Rotate%20Image.py)
 | 49    | Group Anagrams |Medium| [LC Link](https://leetcode.com/problems/group-anagrams/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/49.%20Group%20Anagrams.py)
+| 303   | Range Sum Query - Immutable |Easy| [LC Link](https://leetcode.com/problems/range-sum-query-immutable/) | [My Solution]()|Cache|
 
 
 

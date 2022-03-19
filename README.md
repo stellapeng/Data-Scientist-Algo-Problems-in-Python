@@ -7,6 +7,17 @@ To effectively improve coding skills as a DS, I am summerizing the most revanlen
 I hope visitors can find this is useful! :raised_hands:
 
 # **Data Structure**
+### Binary Tree
+Pre-order: root, left, right
+In-order: left, root, right
+Post-order: left, right, root
+
+| Problem No.      | Problem Name          | Difficulty|Question  | Solution  |
+| ------------- |:-------------:|:-------------:| :-----:| :-----:|
+| 114     | Flatten Binary Tree to Linked List | Medium |[LC Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [My Solution]()
+| 116     | Populating Next Right Pointers in Each Node | Medium |[LC Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [My Solution]()
+| 226     | Invert Binary Tree | Medium |[LC Link](https://leetcode.com/problems/invert-binary-tree/) | [My Solution]()
+
 ### Array
 
 | Problem No.      | Problem Name          | Difficulty|Question  | Solution  |

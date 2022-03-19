@@ -57,9 +57,12 @@ Post-order: left, right, root
 
 ### Matrix
 
-| Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------| :-----:| :-----:|
-| 73     | Set Matrix Zeroes | [LC Link](https://leetcode.com/problems/set-matrix-zeroes/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Matrix/73.%20Set%20Matrix%20Zeroes.py)
+| Problem No.      | Problem Name          | Difficulty|Question  | Solution  | Comment |
+| ------------- |:-------------|:-------------:| :-----:| :-----:|:-----:|
+| 73     | Set Matrix Zeroes |Easy| [LC Link](https://leetcode.com/problems/set-matrix-zeroes/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Matrix/73.%20Set%20Matrix%20Zeroes.py)
+| 304     | Range Sum Query 2D - Immutable |Medium| [LC Link](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [My Solution]()|2D version of [303](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.py)|
+
+
 
 # **Algorithm**
 

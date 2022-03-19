@@ -37,7 +37,8 @@ Post-order: left, right, root
 | 36    | Valid Sudoku | |[LC Link](https://leetcode.com/problems/missing-ranges/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
 | 48    | Rotate Image | |[LC Link](https://leetcode.com/problems/rotate-image/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/48.%20Rotate%20Image.py)
 | 49    | Group Anagrams |Medium| [LC Link](https://leetcode.com/problems/group-anagrams/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/49.%20Group%20Anagrams.py)
-| 303   | Range Sum Query - Immutable |Easy| [LC Link](https://leetcode.com/problems/range-sum-query-immutable/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.py)|Cache|
+| 303   | Range Sum Query - Immutable |Easy| [LC Link](https://leetcode.com/problems/range-sum-query-immutable/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.py)|presum Cache|
+| 560   | Subarray Sum Equals K |Medium| [LC Link](https://leetcode.com/problems/subarray-sum-equals-k/) | [My Solution]()|presum Cache|
 
 
 

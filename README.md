@@ -13,15 +13,15 @@ In-order: left, root, right
 Post-order: left, right, root
 
 | Problem No.      | Problem Name          | Difficulty|Question  | Solution  |
-| ------------- |:-------------:|:-------------:| :-----:| :-----:|
-| 114     | Flatten Binary Tree to Linked List | Medium |[LC Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [My Solution]()
-| 116     | Populating Next Right Pointers in Each Node | Medium |[LC Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [My Solution]()
-| 226     | Invert Binary Tree | Medium |[LC Link](https://leetcode.com/problems/invert-binary-tree/) | [My Solution]()
+| ------------- |:-------------|:-------------:| :-----:| :-----:|
+| 114     | Flatten Binary Tree to Linked List | Medium |[LC Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py)
+| 116     | Populating Next Right Pointers in Each Node | Medium |[LC Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)
+| 226     | Invert Binary Tree | Medium |[LC Link](https://leetcode.com/problems/invert-binary-tree/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/226.%20Invert%20Binary%20Tree.py)
 
 ### Array
 
 | Problem No.      | Problem Name          | Difficulty|Question  | Solution  | Comment |
-| ------------- |:-------------:|:-------------:| :-----:| :-----:|:-----:|
+| ------------- |:-------------|:-------------:| :-----:| :-----:|:-----:|
 | 26     | Remove Duplicates from Sorted Array | |[LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
 | 121     | Best Time to Buy and Sell Stock | |[LC Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 | 189     | Rotate Array | |[LC Link](https://leetcode.com/problems/rotate-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/189.%20Rotate%20Array.py)
@@ -37,14 +37,14 @@ Post-order: left, right, root
 | 36    | Valid Sudoku | |[LC Link](https://leetcode.com/problems/missing-ranges/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
 | 48    | Rotate Image | |[LC Link](https://leetcode.com/problems/rotate-image/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/48.%20Rotate%20Image.py)
 | 49    | Group Anagrams |Medium| [LC Link](https://leetcode.com/problems/group-anagrams/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/49.%20Group%20Anagrams.py)
-| 303   | Range Sum Query - Immutable |Easy| [LC Link](https://leetcode.com/problems/range-sum-query-immutable/) | [My Solution]()|Cache|
+| 303   | Range Sum Query - Immutable |Easy| [LC Link](https://leetcode.com/problems/range-sum-query-immutable/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.py)|Cache|
 
 
 
 ### Strings
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------:| :-----:| :-----:|
+| ------------- |:-------------| :-----:| :-----:|
 | 344     | Reverse String | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/344.%20Reverse%20String.py)
 | 7     | Reverse Integer | [LC Link](https://leetcode.com/problems/reverse-integer/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/7.%20Reverse%20Integer.py)
 | 387   | First Unique Character in a String | [LC Link](https://leetcode.com/problems/first-unique-character-in-a-string/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/387.%20First%20Unique%20Character%20in%20a%20String.py)
@@ -58,7 +58,7 @@ Post-order: left, right, root
 ### Matrix
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------:| :-----:| :-----:|
+| ------------- |:-------------| :-----:| :-----:|
 | 73     | Set Matrix Zeroes | [LC Link](https://leetcode.com/problems/set-matrix-zeroes/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Matrix/73.%20Set%20Matrix%20Zeroes.py)
 
 # **Algorithm**
@@ -66,7 +66,7 @@ Post-order: left, right, root
 ### Sorting and Searching
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------:| :-----:| :-----:|
+| ------------- |:-------------| :-----:| :-----:|
 | 88    | Merge Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/88.%20Merge%20Sorted%20Array.py)
 | 278    | First Bad Version | [LC Link](https://leetcode.com/problems/first-bad-version/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/278.%20First%20Bad%20Version.py)
 
@@ -74,7 +74,7 @@ Post-order: left, right, root
 ### Math
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------:| :-----:| :-----:|
+| ------------- |:-------------| :-----:| :-----:|
 | 412     | Fizz Buzz | [LC Link](https://leetcode.com/problems/fizz-buzz/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/412.%20Fizz%20Buzz.py)
 | 204     | Count Primes | [LC Link](https://leetcode.com/problems/count-primes/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/204.%20Count%20Primes.py)
 | 231     | Power of Two | [LC Link](https://leetcode.com/problems/power-of-two/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/231.%20Power%20of%20Two.py)
@@ -86,7 +86,7 @@ Post-order: left, right, root
 ### Dynamic Programming
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------:| :-----:| :-----:|
+| ------------- |:-------------| :-----:| :-----:|
 | 70     | Climbing Stairs | [LC Link](https://leetcode.com/problems/climbing-stairs/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Dynamic%20Programming/70.%20Climbing%20Stairs.py)
 
 

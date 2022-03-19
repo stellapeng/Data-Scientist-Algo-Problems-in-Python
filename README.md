@@ -20,25 +20,25 @@ Post-order: left, right, root
 
 ### Array
 
-| Problem No.      | Problem Name          | Difficulty|Question  | Solution  | Comment |
-| ------------- |:-------------|:-------------:| :-----:| :-----:|:-----:|
-| 26     | Remove Duplicates from Sorted Array | |[LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
-| 121     | Best Time to Buy and Sell Stock | |[LC Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
-| 189     | Rotate Array | |[LC Link](https://leetcode.com/problems/rotate-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/189.%20Rotate%20Array.py)
-| 217     | Contains Duplicate | |[LC Link](https://leetcode.com/problems/contains-duplicate/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/217.%20Contains%20Duplicate.py)
-| 136     | Single Number | |[LC Link](https://leetcode.com/problems/single-number/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/136.%20Single%20Number.py)
-| 350     | Intersection of Two Arrays II | |[LC Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/350.%20Intersection%20of%20Two%20Arrays%20II.py)
-| 66     | Plus One | | [LC Link](https://leetcode.com/problems/plus-one/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/66.%20Plus%20One.py)
-| 283    | Move Zeros | |[LC Link](https://leetcode.com/problems/move-zeroes/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/283.%20Move%20Zeroes.py)
-| 1    | Two Sum | |[LC Link](https://leetcode.com/problems/two-sum/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/1.%20Two%20Sum.py)
-| 167    | Two Sum II - Input Array Is Sorted | |[LC Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py)
-| 15    | 3Sum | |[LC Link](https://leetcode.com/problems/3sum/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/15.%203Sum.py)
-| 163    | Missing Ranges | | [LC Link](https://leetcode.com/problems/missing-ranges/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
-| 36    | Valid Sudoku | |[LC Link](https://leetcode.com/problems/missing-ranges/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
-| 48    | Rotate Image | |[LC Link](https://leetcode.com/problems/rotate-image/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/48.%20Rotate%20Image.py)
-| 49    | Group Anagrams |Medium| [LC Link](https://leetcode.com/problems/group-anagrams/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/49.%20Group%20Anagrams.py)
-| 303   | Range Sum Query - Immutable |Easy| [LC Link](https://leetcode.com/problems/range-sum-query-immutable/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.py)|presum Cache|
-| 560   | Subarray Sum Equals K |Medium| [LC Link](https://leetcode.com/problems/subarray-sum-equals-k/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/560.%20Subarray%20Sum%20Equals%20K.py)|presum + dict|
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
+| [289. Rotate Array](https://leetcode.com/problems/rotate-array/) | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/189.%20Rotate%20Array.py)
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/217.%20Contains%20Duplicate.py)
+| [136. Single Number](https://leetcode.com/problems/single-number/) | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/136.%20Single%20Number.py)
+| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) ||| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/350.%20Intersection%20of%20Two%20Arrays%20II.py)
+| [66. Plus One](https://leetcode.com/problems/plus-one/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/66.%20Plus%20One.py)
+| [283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/283.%20Move%20Zeroes.py)
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | |  [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/1.%20Two%20Sum.py)
+| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py)
+| [15. 3Sum](https://leetcode.com/problems/3sum/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/15.%203Sum.py)
+| [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
+| [36. Valid Sudoku](https://leetcode.com/problems/missing-ranges/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/48.%20Rotate%20Image.py)
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/49.%20Group%20Anagrams.py)
+| [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.py)|presum Cache|
+| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/560.%20Subarray%20Sum%20Equals%20K.py)|presum + dict|
 
 
 

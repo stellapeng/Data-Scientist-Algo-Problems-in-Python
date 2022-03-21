@@ -43,9 +43,9 @@ Post-order: left, right, root
 | [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/1109.%20Corporate%20Flight%20Bookings.py)|array diff cache|
 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/1109.%20Corporate%20Flight%20Bookings.py)|array diff cache|
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  |Hard| [My Solution]()|Sliding window|
-| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |Medium| [My Solution]()|Sliding window|
-| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  |Medium| [My Solution]()|Sliding window|
-| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  |Medium| [My Solution]()|Sliding window|
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|Sliding window|
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/567.%20Permutation%20in%20String.py)|Sliding window|
+| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/438.%20Find%20All%20Anagrams%20in%20a%20String.py)|Sliding window|
 
 
 

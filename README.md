@@ -42,6 +42,7 @@ Post-order: left, right, root
 | [370. Range Addition](https://leetcode.com/problems/range-addition/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/370.%20Range%20Addition.py)|array diff cache|
 | [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/1109.%20Corporate%20Flight%20Bookings.py)|array diff cache|
 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)  |Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/1109.%20Corporate%20Flight%20Bookings.py)|array diff cache|
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  |Hard| [My Solution]()|Sliding window|
 
 
 

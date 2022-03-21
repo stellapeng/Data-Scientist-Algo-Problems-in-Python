@@ -1,3 +1,6 @@
+ # Time Complexity: O(n)
+ # Space Complexity: O(1)
+ 
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         need = Counter(t)

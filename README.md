@@ -76,10 +76,11 @@ Post-order: left, right, root
 
 ### Sorting and Searching
 
-| Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------| :-----:| :-----:|
-| 88    | Merge Sorted Array | [LC Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/88.%20Merge%20Sorted%20Array.py)
-| 278    | First Bad Version | [LC Link](https://leetcode.com/problems/first-bad-version/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/278.%20First%20Bad%20Version.py)
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+|[88. Merge Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/88.%20Merge%20Sorted%20Array.py) ||
+|[278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/278.%20First%20Bad%20Version.py) ||
+| [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [My Solution]() |Binary search|
 
 
 ### Math

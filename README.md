@@ -80,8 +80,8 @@ Post-order: left, right, root
 |:-------------|:-------------:| :--------:|:-----:|
 |[88. Merge Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/88.%20Merge%20Sorted%20Array.py) ||
 |[278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/278.%20First%20Bad%20Version.py) ||
-| [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [My Solution]() |Binary search|
-| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [My Solution]() |Binary search|
+| [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/704.%20Binary%20Search.py) |Binary search|
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) |Left/Right-most binary search|
 
 
 ### Math

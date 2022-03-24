@@ -30,4 +30,6 @@ class Solution:
             else:
                 left = mid + 1
         
-        return left
+        # return right is equivalent, the negation of loop guard is left >= right
+        # when the loop terminates, left = right
+        return left 

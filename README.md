@@ -83,6 +83,7 @@ Post-order: left, right, root
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/704.%20Binary%20Search.py) |Binary search|
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py) |binary search|
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [My Solution]() |binary search|
+| [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [My Solution]() |binary search|
 
 
 ### Math

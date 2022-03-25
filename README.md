@@ -86,6 +86,12 @@ Post-order: left, right, root
 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.py) |binary search|
 
 
+### Two Index
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+|[870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | | [My Solution]() ||
+
+
 ### Math
 
 | Problem No.      | Problem Name          |  Question  | Solution  |

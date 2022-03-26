@@ -61,6 +61,13 @@ Post-order: left, right, root
 | 14   |  Longest Common Prefix | [LC Link](https://leetcode.com/problems/longest-common-prefix/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/14.%20Longest%20Common%20Prefix.py)
 
 
+### Linked List
+
+
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy|[My Solution]()|Two pointers, dummy head|
+
 ### Matrix
 
 | Problem No.      | Problem Name          | Difficulty|Question  | Solution  | Comment |

@@ -91,7 +91,7 @@ Post-order: left, right, root
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Slow/Fast pointers|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|Slow/Fast pointers|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/27.%20Remove%20Element.py)|Slow/Fast pointers|
-| [283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy| [My Solution]()|Slow/Fast pointers|
+| [283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/283.%20Move%20Zeroes.py)|Slow/Fast pointers|
 
 
 ### Math

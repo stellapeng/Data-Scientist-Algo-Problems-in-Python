@@ -88,7 +88,7 @@ Post-order: left, right, root
 ### Two Pointers
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
-|[870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | | [My Solution]() ||
+|[870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/870.%20Advantage%20Shuffle.py) ||
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Easy| [My Solution]()|Slow/Fast pointers|
 
 

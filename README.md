@@ -90,6 +90,7 @@ Post-order: left, right, root
 |:-------------|:-------------:| :--------:|:-----:|
 |[870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/870.%20Advantage%20Shuffle.py) ||
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Easy| [My Solution]()|Slow/Fast pointers|
+|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | Easy| [My Solution]()|Slow/Fast pointers|
 
 
 ### Math

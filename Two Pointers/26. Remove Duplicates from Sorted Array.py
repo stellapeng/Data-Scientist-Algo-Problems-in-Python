@@ -11,6 +11,9 @@ index fast, would keep track of the current element in the original array,
 index slow, is to track the unique elements.
 '''
 
+# Time Complexisty: O(n)
+# Space Complexisty: O(1)
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         

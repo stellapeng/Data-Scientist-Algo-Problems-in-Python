@@ -28,7 +28,6 @@ Post-order: left, right, root
 | [136. Single Number](https://leetcode.com/problems/single-number/) | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/136.%20Single%20Number.py)
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) || [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/350.%20Intersection%20of%20Two%20Arrays%20II.py)
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/66.%20Plus%20One.py)
-| [283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/283.%20Move%20Zeroes.py)
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | |  [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/1.%20Two%20Sum.py)
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py)
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/15.%203Sum.py)
@@ -92,6 +91,7 @@ Post-order: left, right, root
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Slow/Fast pointers|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|Slow/Fast pointers|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/27.%20Remove%20Element.py)|Slow/Fast pointers|
+| [283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy| [My Solution]()|Slow/Fast pointers|
 
 
 ### Math

@@ -4,7 +4,6 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         slow = 0
-        fast = 0
         l = 0
         
         for fast in range(len(nums)):
@@ -14,4 +13,3 @@ class Solution:
                 l += 1
                 
         return l
-        

@@ -22,7 +22,6 @@ Post-order: left, right, root
 
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
-| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 | [289. Rotate Array](https://leetcode.com/problems/rotate-array/) | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/189.%20Rotate%20Array.py)
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/217.%20Contains%20Duplicate.py)
@@ -86,10 +85,11 @@ Post-order: left, right, root
 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Sorting%20and%20Searching/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.py) |binary search|
 
 
-### Two Index
+### Two Pointers
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
 |[870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | | [My Solution]() ||
+|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Easy| [My Solution]()|Slow/Fast pointers|
 
 
 ### Math

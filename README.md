@@ -72,7 +72,7 @@ Post-order: left, right, root
 | [876. Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.py)|Slow and fast pointers|
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/141.%20Linked%20List%20Cycle.py)|Slow and fast pointers|
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/142.%20Linked%20List%20Cycle%20II.py)|Slow and fast pointers|
-| [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy|[My Solution]()|Two pointers|
+| [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/160.%20Intersection%20of%20Two%20Linked%20Lists.py)|Two pointers|
 
 
 ### Matrix

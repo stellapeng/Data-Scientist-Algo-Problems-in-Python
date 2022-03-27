@@ -70,7 +70,8 @@ Post-order: left, right, root
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/23.%20Merge%20k%20Sorted%20Lists.py)|PriorityQueue, pointer, dummy head|
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|Slow and fast pointers|
 | [876. Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.py)|Slow and fast pointers|
-| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy|[My Solution]()|Slow and fast pointers|
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/141.%20Linked%20List%20Cycle.py)|Slow and fast pointers|
+| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium|[My Solution]()|Slow and fast pointers|
 
 ### Matrix
 

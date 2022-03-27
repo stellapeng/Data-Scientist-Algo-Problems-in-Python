@@ -74,8 +74,8 @@ Post-order: left, right, root
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/141.%20Linked%20List%20Cycle.py)|Slow and fast pointers|
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/142.%20Linked%20List%20Cycle%20II.py)|Slow and fast pointers|
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/160.%20Intersection%20of%20Two%20Linked%20Lists.py)|Two pointers|
-| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy|[My Solution]()|Recursive|
-| [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium|[My Solution]()|Recursive twice|
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.py)|Recursive|
+| [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/92.%20Reverse%20Linked%20List%20II.py)|Recursive twice|
 
 
 
@@ -133,9 +133,10 @@ Post-order: left, right, root
 
 ### Recursion
 
-| Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------:| :-----:| :-----:|
-| 344     | Reverse String | [LC Link](https://leetcode.com/problems/merge-sorted-array/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Recursion/344.%20Reverse%20String.py)
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [344. Reverse String](https://leetcode.com/problems/merge-sorted-array/) | Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Strings/344.%20Reverse%20String.py)||
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.py)|Recursive|
 
 
 ### Others

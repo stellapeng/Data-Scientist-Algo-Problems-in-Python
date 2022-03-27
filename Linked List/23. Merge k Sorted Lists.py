@@ -10,6 +10,8 @@
 #         self.val = val
 #         self.next = next
 
+# PriprityQueue in python: https://towardsdatascience.com/introduction-to-priority-queues-in-python-83664d3178c3
+
 from Queue import PriorityQueue
 
 class Solution(object):

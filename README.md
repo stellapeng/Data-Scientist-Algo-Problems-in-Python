@@ -68,7 +68,8 @@ Post-order: left, right, root
 |:-------------|:-------------:| :--------:|:-----:|
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/%23%20Two%20pointers.py)|Two pointers, dummy head|
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/23.%20Merge%20k%20Sorted%20Lists.py)|PriorityQueue, pointer, dummy head|
-| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|find the nth node from back|
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|Slow and fast pointers|
+| [876. Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.py)|Slow and fast pointers|
 
 ### Matrix
 

@@ -1,6 +1,7 @@
 // peek: worst time complexity: O(n), average time complexity: O(1)
 // otehr methods time complexity: O(1)
 
+// Stack class in java: https://www.geeksforgeeks.org/stack-class-in-java/
 
 class MyQueue {
     private Stack<Integer> s1, s2;

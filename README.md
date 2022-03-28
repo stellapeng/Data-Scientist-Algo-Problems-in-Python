@@ -87,12 +87,14 @@ Post-order: left, right, root
 | 304     | Range Sum Query 2D - Immutable |Medium| [LC Link](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Matrix/304.%20Range%20Sum%20Query%202D%20-%20Immutable.py)|2D version of [303](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/303.%20Range%20Sum%20Query%20-%20Immutable.py)|
 
 
-### Stack (java)
+### Stack/Queue (java)
 
 
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
-| [2232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.java)||
+| [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.java)||
+| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy|[My Solution]()||
+
 
 # **Algorithm**
 

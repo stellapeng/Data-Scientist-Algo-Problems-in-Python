@@ -93,7 +93,7 @@ Post-order: left, right, root
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack/232.%20Implement%20Queue%20using%20Stacks.java)||
-| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy|[My Solution]()||
+| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack:Queue/225.%20Implement%20Stack%20using%20Queues.java)||
 
 
 # **Algorithm**

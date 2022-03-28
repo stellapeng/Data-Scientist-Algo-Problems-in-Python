@@ -1,5 +1,7 @@
-# pop: time complexity: O(n)
-# other methods: time complexity: O(1)
+// pop: time complexity: O(n)
+// other methods: time complexity: O(1)
+
+// Queue interface in java: https://www.geeksforgeeks.org/queue-interface-java/
 
 class MyStack {
     

@@ -3,8 +3,8 @@
 
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        need = 0
-        res = 0
+        need = 0 # based on left, count the need for right
+        res = 0 # times of adding left bracket
         for c in s:
             if c == '(':
                 need += 1
@@ -18,4 +18,3 @@ class Solution:
                     
         return need + res;
 
-        

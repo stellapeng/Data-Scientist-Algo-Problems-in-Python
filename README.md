@@ -94,8 +94,9 @@ Post-order: left, right, root
 |:-------------|:-------------:| :--------:|:-----:|
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/232.%20Implement%20Queue%20using%20Stacks.java)||
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/225.%20Implement%20Stack%20using%20Queues.java)||
-| [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium|[My Solution]()||
-| [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium|[My Solution]()||
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy|[My Solution]() ||
+| [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)||
+| [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.py)||
 
 
 # **Algorithm**
@@ -153,6 +154,5 @@ Post-order: left, right, root
 
 | Problem No.      | Problem Name          |  Question  | Solution  |
 | ------------- |:-------------:| :-----:| :-----:|
-| 20     | Valid Parentheses | [LC Link](https://leetcode.com/problems/valid-parentheses/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/20.%20Valid%20Parentheses.py)
 | 118    | Pascal's Triangle | [LC Link](https://leetcode.com/problems/pascals-triangle/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/118.%20Pascal's%20Triangle.py)
 | 268    | Missing Number | [LC Link](https://leetcode.com/problems/missing-number/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/268.%20Missing%20Number.py)

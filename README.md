@@ -100,6 +100,7 @@ Post-order: left, right, root
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/496.%20Next%20Greater%20Element%20I.py)| Monotonic Stack: value|
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/739.%20Daily%20Temperatures.py)| Monotonic Stack: index|
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/503.%20Next%20Greater%20Element%20II.py)| Monotonic Stack: circular|
+| [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard|[My Solution]()| Monotonic Queue, deque|
 
 
 # **Algorithm**

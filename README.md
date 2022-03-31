@@ -98,7 +98,7 @@ Post-order: left, right, root
 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.py)||
 | [1541. Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.py)||
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/496.%20Next%20Greater%20Element%20I.py)| Monotonic Stack: value|
-| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/496.%20Next%20Greater%20Element%20I.py)| Monotonic Stack: index|
+| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/739.%20Daily%20Temperatures.py)| Monotonic Stack: index|
 
 
 # **Algorithm**

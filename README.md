@@ -102,7 +102,7 @@ Post-order: left, right, root
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium|[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/503.%20Next%20Greater%20Element%20II.py)| Monotonic Stack: circular|
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard|[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/239.%20Sliding%20Window%20Maximum.py)| Monotonic Queue, deque|
 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium|[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/316.%20Remove%20Duplicate%20Letters.py)| Monotonic stack|
-| [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium|[Solution]()| Monotonic stack|
+| [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium|[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters.py)| Monotonic stack|
 
 
 # **Algorithm**

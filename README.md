@@ -101,6 +101,7 @@ Post-order: left, right, root
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium|[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/739.%20Daily%20Temperatures.py)| Monotonic Stack: index|
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium|[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/503.%20Next%20Greater%20Element%20II.py)| Monotonic Stack: circular|
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard|[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Stack%20Queue/239.%20Sliding%20Window%20Maximum.py)| Monotonic Queue, deque|
+| [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Hard|[Solution]()| Monotonic stack|
 
 
 # **Algorithm**

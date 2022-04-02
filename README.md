@@ -171,7 +171,7 @@ Post-order: left, right, root
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Data%20Structure%20Design/146.%20LRU%20Cache.py) |OrderedDict()/LinkedHashMap<>()|
 |[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python) |list + map: O(1) swap|
 |[710. Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | Hard| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Data%20Structure%20Design/710.%20Random%20Pick%20with%20Blacklist.py) | dict to map the backlist|
-|[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard| [My Solution]() | PriorityQueue, heapq in python|
+|[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Data%20Structure%20Design/295.%20Find%20Median%20from%20Data%20Stream.java) | PriorityQueue, heapq in python|
 
 
 

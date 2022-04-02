@@ -169,6 +169,7 @@ Post-order: left, right, root
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Data%20Structure%20Design/146.%20LRU%20Cache.py) |OrderedDict()/LinkedHashMap<>()|
-|[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium| [My Solution]() |list + map: O(1) swap|
+|[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python) |list + map: O(1) swap|
+|[710. Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | Hard| [My Solution]() | dict to map the backlist|
 
 

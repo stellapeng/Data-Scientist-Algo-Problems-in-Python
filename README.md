@@ -168,4 +168,4 @@ Post-order: left, right, root
 
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
-|[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium| [My Solution]() |OrderedDict()/LinkedHashMap<>()|
+|[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Data%20Structure%20Design/146.%20LRU%20Cache.py) |OrderedDict()/LinkedHashMap<>()|

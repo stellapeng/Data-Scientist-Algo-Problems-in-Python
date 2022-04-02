@@ -162,3 +162,10 @@ Post-order: left, right, root
 | ------------- |:-------------:| :-----:| :-----:|
 | 118    | Pascal's Triangle | [LC Link](https://leetcode.com/problems/pascals-triangle/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/118.%20Pascal's%20Triangle.py)
 | 268    | Missing Number | [LC Link](https://leetcode.com/problems/missing-number/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/268.%20Missing%20Number.py)
+
+
+### Data Structure Design
+
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+|[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium| [My Solution]() |OrderedDict()/LinkedHashMap<>()|

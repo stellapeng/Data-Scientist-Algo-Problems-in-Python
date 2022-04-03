@@ -18,6 +18,7 @@ Post-order: left, right, root
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|pre-order|
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Medium |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/226.%20Invert%20Binary%20Tree.py)|pre- or post-order|
 | [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)| Medium | [My Solution]()|pre-order|
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Medium | [My Solution]()|pre-order|
 
 ### Array
 

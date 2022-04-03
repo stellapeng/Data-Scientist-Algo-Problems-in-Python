@@ -12,11 +12,12 @@ Pre-order: root, left, right
 In-order: left, root, right
 Post-order: left, right, root
 
-| Problem No.      | Problem Name          | Difficulty|Question  | Solution  |
-| ------------- |:-------------|:-------------:| :-----:| :-----:|
-| 114     | Flatten Binary Tree to Linked List | Medium |[LC Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py)
-| 116     | Populating Next Right Pointers in Each Node | Medium |[LC Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)
-| 226     | Invert Binary Tree | Medium |[LC Link](https://leetcode.com/problems/invert-binary-tree/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/226.%20Invert%20Binary%20Tree.py)
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [114. latten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py)||
+| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)||
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Medium |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/226.%20Invert%20Binary%20Tree.py)||
+| [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)| Medium | [My Solution]()|pre-order|
 
 ### Array
 

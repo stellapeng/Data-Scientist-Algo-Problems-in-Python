@@ -21,7 +21,7 @@ Post-order: left, right, root
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Medium | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)|pre-order|
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| Medium | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py)|pre-order|
 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)| Medium | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.py)|pre-order|
-| [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)| Medium | [Solution]()|post-order|
+| [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)| Medium | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/652.%20Find%20Duplicate%20Subtrees.py)|post-order|
 
 ### Array
 

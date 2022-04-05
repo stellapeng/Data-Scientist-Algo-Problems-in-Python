@@ -59,6 +59,7 @@ class Codec:
         
         return self.ds_helper(data_list)
         
+       
         
 # post-order       
 class Codec:
@@ -115,6 +116,75 @@ class Codec:
 
         return self.ds_helper(data_list)
         
+
+
+# by layers
+class Codec:
+
+    def serialize(self, root):
+        """Encodes a tree to a single string.
+        
+        :type root: TreeNode
+        :rtype: str
+        """
+        s = ''
+        
+        if root is None:
+            return s
+        
+        q = [root]
+    
+        while (q):
+            cur = q[0]
+            q.pop(0)
+            if cur is None:
+                s += "None,"
+                continue
+            s += str(cur.val)
+            s += ','
+            q.append(cur.left)
+            q.append(cur.right)
+        
+        return s
+            
+        
+    def deserialize(self, data):
+        """Decodes your encoded data to tree.
+        
+        :type data: str
+        :rtype: TreeNode
+        """
+        data_list = data.split(",")[:-1]
+        
+        if not data_list:
+            return None
+        
+        root = TreeNode(data_list[0])
+        
+        q = [root]
+        
+        i = 1
+        while (i < len(data_list)):
+            parent = q.pop(0)
+            
+            left_value = data_list[i]
+            i+=1
+           
+            if left_value != 'None':
+                parent.left = TreeNode(left_value)
+                q.append(parent.left)
+            else:
+                parent.left = None
+            
+            right_value = data_list[i]
+            i+=1
+            if right_value != 'None':
+                parent.right = TreeNode(right_value)
+                q.append(parent.right)
+            else:
+                parent.right = None
+                
+        return root
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()

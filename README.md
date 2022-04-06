@@ -23,7 +23,7 @@ Post-order: left, right, root
 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)| Medium | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.py)|pre-order|
 | [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)| Medium | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/652.%20Find%20Duplicate%20Subtrees.py)|post-order|
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| Hard | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.py)|pre or post|
-| [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)| Hard | [Solution]()|post-order|
+| [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)| Hard | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.py)|post-order|
 
 ### Array
 

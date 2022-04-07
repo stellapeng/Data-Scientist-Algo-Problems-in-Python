@@ -24,6 +24,7 @@ Post-order: left, right, root
 | [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)| Medium | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/652.%20Find%20Duplicate%20Subtrees.py)|post-order|
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| Hard | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.py)|pre or post|
 | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)| Hard | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.py)|post-order|
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Easy | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|post-order|
 
 ### Array
 

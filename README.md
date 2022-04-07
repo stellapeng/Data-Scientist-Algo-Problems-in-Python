@@ -26,6 +26,7 @@ Post-order: left, right, root
 | [1373. Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)| Hard | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.py)|post-order|
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Easy | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|post-order|
 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)| Medium | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/669.%20Trim%20a%20Binary%20Search%20Tree.py)|pre-order|
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| Easy | [Solution]()|post-order|
 
 ### Array
 

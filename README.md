@@ -28,6 +28,13 @@ Post-order: left, right, root
 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)| Medium | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/669.%20Trim%20a%20Binary%20Search%20Tree.py)|pre-order|
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| Easy | [Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Binary%20Tree/543.%20Diameter%20of%20Binary%20Tree.py)|post-order|
 
+### Binary Search Tree (BST)
+
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py)|in-order|
+
+
 ### Array
 
 |Problem Name  | Difficulty    | Solution  | Comment |

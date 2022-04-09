@@ -34,6 +34,7 @@ Post-order: left, right, root
 |:-------------|:-------------:| :--------:|:-----:|
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py)|in-order|
 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/538.%20Convert%20BST%20to%20Greater%20Tree.py)|in-order|
+| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy |[Solution]()|BST search|
 
 
 ### Array

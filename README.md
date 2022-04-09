@@ -38,7 +38,7 @@ Post-order: left, right, root
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/450.%20Delete%20Node%20in%20a%20BST.py)|BST delete|
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)|BST insert|
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/98.%20Validate%20Binary%20Search%20Tree.py)|BST verify|
-| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |[Solution]()|BST + DP|
+| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/96.%20Unique%20Binary%20Search%20Trees.py)|BST + DP|
 
 
 ### Array

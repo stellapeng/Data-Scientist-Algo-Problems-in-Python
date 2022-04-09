@@ -39,7 +39,7 @@ Post-order: left, right, root
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/701.%20Insert%20into%20a%20Binary%20Search%20Tree.py)|BST insert|
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/98.%20Validate%20Binary%20Search%20Tree.py)|BST verify|
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/96.%20Unique%20Binary%20Search%20Trees.py)|BST + DP|
-| [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium |[Solution]()||
+| [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/95.%20Unique%20Binary%20Search%20Trees%20II.py)||
 
 
 ### Array

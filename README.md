@@ -36,6 +36,7 @@ Post-order: left, right, root
 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/538.%20Convert%20BST%20to%20Greater%20Tree.py)|in-order|
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)|BST search|
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/450.%20Delete%20Node%20in%20a%20BST.py)|BST delete|
+| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium |[Solution]()|BST insert|
 
 
 ### Array

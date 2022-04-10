@@ -42,6 +42,12 @@ Post-order: left, right, root
 | [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/BST/95.%20Unique%20Binary%20Search%20Trees%20II.py)||
 
 
+### Graph
+
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium |[Solution]()|graph traverse|
+
 ### Array
 
 |Problem Name  | Difficulty    | Solution  | Comment |

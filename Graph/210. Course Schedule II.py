@@ -12,9 +12,7 @@ class Solution:
         
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
-        # for i in range(numCourses):
-        #     graph[i] = []
-            
+
         for pair in prerequisites:
             course, preq = pair[0], pair[1]
             graph[preq].append(course)

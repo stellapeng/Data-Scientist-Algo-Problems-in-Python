@@ -5,7 +5,7 @@
 
 
 class Solution:
-    def __init_(self):
+    def __init__(self):
         self.visited = []
         self.colour = []
         self.res = True
@@ -16,16 +16,15 @@ class Solution:
         
         for v in graph[vertex]:
             if self.visited[v] == False:
-                self.colour[v] == -self.colour[vertex]
-                return self.traverse(graph, v)
+                self.colour[v] = -self.colour[vertex]
+                self.traverse(graph, v)
             elif self.colour[v] == self.colour[vertex]:
                 self.res = False
                 break
     
     def isBipartite(self, graph: List[List[int]]) -> bool:
         self.visited = [False] * len(graph)
-        self.colour = [0] * len(graph)
-        self.colour[0] = 1
+        self.colour = [1] * len(graph)
         
         for i in range(len(graph)):
             if self.visited[i] == False:

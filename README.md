@@ -166,13 +166,13 @@ Post-order: left, right, root
 ### Math
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
-| [412. Fizz Buzz]https://leetcode.com/problems/fizz-buzz/) | Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/412.%20Fizz%20Buzz.py)||
+| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/412.%20Fizz%20Buzz.py)||
 | [204. Count Primes](https://leetcode.com/problems/count-primes/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/204.%20Count%20Primes.py)||
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/) |Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/231.%20Power%20of%20Two.py)||
 | [326. Power of Three](https://leetcode.com/problems/power-of-three/) |Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/326.%20Power%20of%20Three.py)||
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/) |Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/342.%20Power%20of%20Four.py)||
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/13.%20Roman%20to%20Integer.py)||
-| [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |Medium | [My Solution]()
+| [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/172.%20Factorial%20Trailing%20Zeroes.py)||
 
 
 ### Dynamic Programming

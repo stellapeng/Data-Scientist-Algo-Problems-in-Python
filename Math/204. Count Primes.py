@@ -1,5 +1,33 @@
 # Time complexity: O(nlog(n))
 # Space complexity: O(n)
+
+# clearer version
+class Solution:
+    def isPrime(self, num: int) -> bool:
+        if num == 2:
+            return True
+        
+        i = 2
+        while i * i < num: # check from 2 to floor(sqrt(n)) 
+            if num % i == 0:
+                return False
+            i += 1
+        return True
+    
+    def countPrimes(self, n: int) -> int:
+        # 0 and 1 are NOT primes
+        nums = [False, False] + [True] * (n-2)
+        i = 2
+        while i*i < n:
+            if self.isPrime(i):
+                for j in range( i * i, n, i):
+                     nums[j] = False
+            i += 1
+        return sum(nums)
+
+
+
+
 class Solution:
     def countPrimes(self, n: int) -> int:
         if n <= 2:

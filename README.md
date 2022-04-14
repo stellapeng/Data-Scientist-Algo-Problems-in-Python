@@ -160,7 +160,7 @@ Post-order: left, right, root
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|Slow/Fast pointers|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|Slow/Fast pointers|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/27.%20Remove%20Element.py)|Slow/Fast pointers|
-| [283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/283.%20Move%20Zeroes.py)|Slow/Fast pointers|
+|[283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/283.%20Move%20Zeroes.py)|Slow/Fast pointers|
 
 
 ### Math
@@ -173,6 +173,7 @@ Post-order: left, right, root
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/) |Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/342.%20Power%20of%20Four.py)||
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/13.%20Roman%20to%20Integer.py)||
 | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/172.%20Factorial%20Trailing%20Zeroes.py)||
+| [793. Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) |Hard | [My Solution]()||
 
 
 ### Dynamic Programming

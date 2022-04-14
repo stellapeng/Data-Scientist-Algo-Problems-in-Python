@@ -8,7 +8,7 @@ class Solution:
             return True
         
         i = 2
-        while i * i < num: # check from 2 to floor(sqrt(n)) 
+        while i * i <= num: # check from 2 to int(sqrt(n)) (inclusive)
             if num % i == 0:
                 return False
             i += 1
@@ -18,9 +18,12 @@ class Solution:
         # 0 and 1 are NOT primes
         nums = [False, False] + [True] * (n-2)
         i = 2
-        while i*i < n:
+        while i*i < n: # open bracket because we are counting primes strictly less than n
             if self.isPrime(i):
-                for j in range( i * i, n, i):
+                # it's easy to think of checking from 2 * i, 3 * i, ..., n. 
+                # however 2 * i, 3 * i up tp (i-1) * i have already been checked in previous iterations
+                # only need to check from i^2 to n
+                for j in range( i * i, n, i): 
                      nums[j] = False
             i += 1
         return sum(nums)

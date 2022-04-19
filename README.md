@@ -174,6 +174,7 @@ Post-order: left, right, root
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/13.%20Roman%20to%20Integer.py)||
 | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/172.%20Factorial%20Trailing%20Zeroes.py)||
 | [793. Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) |Hard | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/793.%20Preimage%20Size%20of%20Factorial%20Zeroes%20Function.py)||
+| [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/793.%20Preimage%20Size%20of%20Factorial%20Zeroes%20Function.py)||
 
 
 ### Dynamic Programming

@@ -175,6 +175,7 @@ Post-order: left, right, root
 | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/172.%20Factorial%20Trailing%20Zeroes.py)||
 | [793. Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) |Hard | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/793.%20Preimage%20Size%20of%20Factorial%20Zeroes%20Function.py)||
 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/382.%20Linked%20List%20Random%20Node.py)||
+| [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/) |Medium | [My Solution]()||
 
 
 ### Dynamic Programming

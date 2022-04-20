@@ -1,8 +1,6 @@
+# method 1: ink index with element value, the dup index is the dup value
 # Time Complexity: O(n)
 # Space Complexity: O(1)
-
-
-# link index with element value, the dup index is the dup value
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         n = len(nums)
@@ -21,9 +19,8 @@ class Solution:
 
 
 
-# Time Complexity: O(nlogn)
-# Space Complexity: O(logn)
-
+# Time Complexity: O(nlogn) sorting needs logn time
+# Space Complexity: O(logn) sorting needs logn space
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         nums = sorted(nums)

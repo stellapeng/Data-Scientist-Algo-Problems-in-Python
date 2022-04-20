@@ -176,7 +176,7 @@ Post-order: left, right, root
 | [793. Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) |Hard | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/793.%20Preimage%20Size%20of%20Factorial%20Zeroes%20Function.py)||
 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/382.%20Linked%20List%20Random%20Node.py)||
 | [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/398.%20Random%20Pick%20Index.py)||
-| [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) |Easy | [My Solution]()||
+| [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) |Easy | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Math/645.%20Set%20Mismatch.py)||
 
 
 ### Dynamic Programming

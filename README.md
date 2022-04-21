@@ -65,7 +65,7 @@ Post-order: left, right, root
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) |Easy|  [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/1.%20Two%20Sum.py)
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py)
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/15.%203Sum.py)
-| [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/18.%204Sum.py)|generic solution|
+| [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/18.%204Sum.py)|generic nSum solution|
 | [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
 | [36. Valid Sudoku](https://leetcode.com/problems/missing-ranges/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/163.%20Missing%20Ranges.py)
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Array/48.%20Rotate%20Image.py)

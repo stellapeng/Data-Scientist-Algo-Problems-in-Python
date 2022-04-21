@@ -6,35 +6,44 @@
 # Time Complexity: O(n^2)
 # Space Complexisty: O(logn) to O(n), depending on the implementation of the sorting algorithm.
 class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
-        nums.sort()
+    def twoSum(self, nums, target):
+        low, high = 0, len(nums)-1
         res = []
-        for i in range(len(nums)):
-            if nums[i] > 0:
-                break;
-            # Increment lo while the next value is the same to avoid duplicates in the result.
-            if i == 0 or nums[i-1] != nums[i]:
-                self.twoSumII(nums, i, res)
+        while(low<high):
+            left, right = nums[low], nums[high]
+            s = nums[low] + nums[high]
+            if(s<target):
+                while(low<high and nums[low]==left):
+                    low+=1
+            if(s>target):
+                while(low<high and nums[high]==right):
+                    high-=1
+            if(s==target):
+                res.append([left, right])
+                while(low<high and nums[low]==left):
+                    low+=1
+                while(low<high and nums[high]==right):
+                    high-=1
         return res
     
-    def twoSumII(self, nums: List[int], i: int, res:List[List[int]]) -> List[List[int]]:
-        low, high = i+1, len(nums) - 1
-
-        while (low < high):
-            s = nums[i] + nums[low] + nums[high]
-            if s < 0:
-                low += 1
-            elif s > 0:
-                high -= 1
-            else:
-                print(s)
-                res.append([nums[i], nums[low], nums[high]])
-                low += 1
-                high -= 1
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        nums = sorted(nums)
+        n = len(nums)
+        i = 0
+        while (i<n-2):
+            sub_res = self.twoSum(nums[i+1:], -nums[i])
+            if sub_res:
+                print(sub_res)
+                for j in sub_res:
+                    r = [nums[i]] + j
+                    res.append(r)
+            
+            while (i < n - 2 and nums[i] == nums[i + 1]):
+                i+=1
                 
-                # Increment lo while the next value is the same to avoid duplicates in the result.
-                while low < high and nums[low] == nums[low - 1]:
-                    low += 1
+            i += 1
+        return res
 
 
 # method 2:

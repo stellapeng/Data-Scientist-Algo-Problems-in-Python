@@ -197,10 +197,11 @@ Post-order: left, right, root
 
 ### Others
 
-| Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------:| :-----:| :-----:|
-| 118    | Pascal's Triangle | [LC Link](https://leetcode.com/problems/pascals-triangle/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/118.%20Pascal's%20Triangle.py)
-| 268    | Missing Number | [LC Link](https://leetcode.com/problems/missing-number/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/268.%20Missing%20Number.py)
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/118.%20Pascal's%20Triangle.py)||
+| [268. Missing Number](https://leetcode.com/problems/missing-number/) |Easy|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/268.%20Missing%20Number.py)||
+| [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/1288.%20Remove%20Covered%20Intervals.py)|intervals|
 
 
 ### Data Structure Design

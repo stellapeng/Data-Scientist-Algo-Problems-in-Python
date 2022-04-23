@@ -204,7 +204,7 @@ Post-order: left, right, root
 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/1288.%20Remove%20Covered%20Intervals.py)|intervals|
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/56.%20Merge%20Intervals.py)|intervals|
 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/986.%20Interval%20List%20Intersections.py)|intervals|
-| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium|[My Solution]()|PQ|
+| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium|[My Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/)|PQ|
 
 
 ### Data Structure Design

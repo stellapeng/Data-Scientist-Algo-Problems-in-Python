@@ -186,6 +186,11 @@ Post-order: left, right, root
 | ------------- |:-------------| :-----:| :-----:|
 | 70     | Climbing Stairs | [LC Link](https://leetcode.com/problems/climbing-stairs/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Dynamic%20Programming/70.%20Climbing%20Stairs.py)
 
+### Divide and Conquer
+
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium|[My Solution]()||
 
 ### Recursion
 

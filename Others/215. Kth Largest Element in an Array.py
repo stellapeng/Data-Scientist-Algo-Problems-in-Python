@@ -1,3 +1,6 @@
+# Time Complexity: O(nlog(k))
+# Space Complexity: O(k)
+
 from queue import PriorityQueue
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:

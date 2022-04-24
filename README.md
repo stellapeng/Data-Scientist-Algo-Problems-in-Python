@@ -182,15 +182,15 @@ Post-order: left, right, root
 
 ### Dynamic Programming
 
-| Problem No.      | Problem Name          |  Question  | Solution  |
-| ------------- |:-------------| :-----:| :-----:|
-| 70     | Climbing Stairs | [LC Link](https://leetcode.com/problems/climbing-stairs/) | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Dynamic%20Programming/70.%20Climbing%20Stairs.py)
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |Easy |[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Dynamic%20Programming/70.%20Climbing%20Stairs.py)||
 
 ### Divide and Conquer
 
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
-| [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium|[My Solution]()||
+| [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Divide%20and%20Conquer/241.%20Different%20Ways%20to%20Add%20Parentheses.py)||
 
 ### Recursion
 

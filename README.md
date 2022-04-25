@@ -210,6 +210,7 @@ Post-order: left, right, root
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/56.%20Merge%20Intervals.py)|intervals|
 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/986.%20Interval%20List%20Intersections.py)|intervals|
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium|[My Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/)|PQ|
+| [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/253.%20Meeting%20Rooms%20II.py)|intervals|
 
 
 ### Data Structure Design

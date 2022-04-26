@@ -211,6 +211,7 @@ Post-order: left, right, root
 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/986.%20Interval%20List%20Intersections.py)|intervals|
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium|[My Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/)|PQ|
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/253.%20Meeting%20Rooms%20II.py)|intervals|
+| [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) | Medium|[My Solution]()|interval|
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/134.%20Gas%20Station.py)||
 
 

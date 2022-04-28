@@ -1,3 +1,8 @@
+# same solution for 227 and 772
+
+# Time Complexisty: O(n)
+# Space Complexisty: O(n)
+
 class Solution:
     def helper(self, s):
         sign = '+'

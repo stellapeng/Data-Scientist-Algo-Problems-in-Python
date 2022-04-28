@@ -213,6 +213,8 @@ Post-order: left, right, root
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/253.%20Meeting%20Rooms%20II.py)|intervals|
 | [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/1024.%20Video%20Stitching.py)|interval|
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/134.%20Gas%20Station.py)||
+| [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard|[My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Others/224.%20Basic%20Calculator.py)||
+
 
 
 ### Data Structure Design

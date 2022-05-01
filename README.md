@@ -51,6 +51,7 @@ Post-order: left, right, root
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/210.%20Course%20Schedule%20II.py)|topological order|
 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/785.%20Is%20Graph%20Bipartite%3F.py)|DFS|
 | [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/886.%20Possible%20Bipartition.py)|DFS|
+| [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.py)|Union-Find|
 
 ### Array
 

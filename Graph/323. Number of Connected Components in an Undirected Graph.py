@@ -25,8 +25,9 @@ class UF:
     def find(self, x):
         if (self.parent[x] != x):
             # compress the depth
-            self.parent[x] = self.find(self.parent[x])
-        return self.parent[x]
+            self.parent[x] = self.parent[self.parent[x]]
+            x = self.parent[x]
+        return x
 
     
 class Solution:

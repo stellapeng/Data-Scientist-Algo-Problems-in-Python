@@ -23,7 +23,7 @@ class UF:
         return rootP == rootQ
 
     def find(self, x):
-        if (self.parent[x] != x):
+        while (self.parent[x] != x):
             # compress the depth
             self.parent[x] = self.parent[self.parent[x]]
             x = self.parent[x]

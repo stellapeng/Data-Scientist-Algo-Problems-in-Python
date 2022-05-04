@@ -53,6 +53,7 @@ Post-order: left, right, root
 | [886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/886.%20Possible%20Bipartition.py)|DFS|
 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.py)|Union-Find|
 | [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/990.%20Satisfiability%20of%20Equality%20Equations.py)|Union-Find|
+| [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/261.%20Graph%20Valid%20Tree.py)|Kruskal|
 
 
 ### Array

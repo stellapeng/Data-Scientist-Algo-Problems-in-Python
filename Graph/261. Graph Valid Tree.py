@@ -11,9 +11,10 @@ class UF:
         root_p = self.find(p)
         root_q = self.find(q)
         
-        if root_p != root_q:
-            self.parent[root_p] = root_q
-            self.count -= 1
+        if root_p == root_q:
+            return
+        self.parent[root_p] = root_q
+        self.count -= 1
     
     def find(self, p):
         while (p!= self.parent[p]):

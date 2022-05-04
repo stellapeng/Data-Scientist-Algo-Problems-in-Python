@@ -24,9 +24,7 @@ class UF:
     def connected(self, p, q):
         root_p = self.find(p)
         root_q = self.find(q)
-        if root_p == root_q:
-            return True
-        else: return False
+        return root_p == root_q
         
 class Solution:        
     def validTree(self, n: int, edges: List[List[int]]) -> bool:

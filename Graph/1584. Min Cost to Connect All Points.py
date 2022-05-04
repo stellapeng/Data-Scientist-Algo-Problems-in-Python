@@ -30,6 +30,7 @@ class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
         n = len(points)
         edges = []
+        # generate edge list first
         for i in range(n):
             for j in range(i, n):
                 x1 = points[i][0]

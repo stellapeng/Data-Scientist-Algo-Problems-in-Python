@@ -57,6 +57,7 @@ Post-order: left, right, root
 | [1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/1135.%20Connecting%20Cities%20With%20Minimum%20Cost.py)|MST-Kruskal|
 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/1584.%20Min%20Cost%20to%20Connect%20All%20Points.py)|MST-Kruskal|
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/743.%20Network%20Delay%20Time.py)|Dijkstra+PQ|
+| [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/1631.%20Path%20With%20Minimum%20Effort.py)|Dijkstra variant|
 
 
 ### Array

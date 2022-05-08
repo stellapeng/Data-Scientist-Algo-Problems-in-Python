@@ -58,7 +58,7 @@ Post-order: left, right, root
 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/1584.%20Min%20Cost%20to%20Connect%20All%20Points.py)|MST-Kruskal|
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/743.%20Network%20Delay%20Time.py)|Dijkstra+PQ|
 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/1631.%20Path%20With%20Minimum%20Effort.py)|Dijkstra variant|
-| [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/1514.%20Path%20with%20Maximum%20Probability.py)|Dijkstra variant|
+|[1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/1514.%20Path%20with%20Maximum%20Probability.py)|Dijkstra variant|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | Medium |[Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Graph/277.%20Find%20the%20Celebrity.py)||
 
 

@@ -176,7 +176,7 @@ Post-order: left, right, root
 ### DFS BFS
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
-| [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [My Solution]()|deep copy of attr lst|
+| [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/DFS_BFS/46.%20Permutations.py)|deep copy of attr lst|
 
 ### Math
 |Problem Name  | Difficulty    | Solution  | Comment |

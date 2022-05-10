@@ -173,6 +173,10 @@ Post-order: left, right, root
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)  | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/27.%20Remove%20Element.py)|Slow/Fast pointers|
 |[283. Move Zeros](https://leetcode.com/problems/move-zeroes/) | Easy| [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/Two%20Pointers/283.%20Move%20Zeroes.py)|Slow/Fast pointers|
 
+### DFS BFS
+|Problem Name  | Difficulty    | Solution  | Comment |
+|:-------------|:-------------:| :--------:|:-----:|
+| [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [My Solution]()|deep copy of attr lst|
 
 ### Math
 |Problem Name  | Difficulty    | Solution  | Comment |

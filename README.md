@@ -177,6 +177,7 @@ Post-order: left, right, root
 |Problem Name  | Difficulty    | Solution  | Comment |
 |:-------------|:-------------:| :--------:|:-----:|
 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/DFS_BFS/46.%20Permutations.py)|deep copy of attr lst|
+| [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [My Solution](https://github.com/stellapeng/Data-Scientist-Algo-Problems-in-Python/blob/main/DFS_BFS/77.%20Combinations.py)|deep copy of attr lst|
 
 ### Math
 |Problem Name  | Difficulty    | Solution  | Comment |
